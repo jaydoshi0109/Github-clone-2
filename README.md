@@ -1,14 +1,6 @@
-# Build and Deploy a Github-like App | React, MongoDB, Express.js, Passport.js
-
-Some Features:
--   ⚙️ Tech stack: MERN + TailwindCSS + Github API
--   🔑 Authentication && Authorization with Passport.js (Github Auth)
--   👾 Fetch Github User Profiles and Repos
--   🚀 Filter Repos on the Client
--   🎭 Learn behind the scenes for authentication
--   🐛 Error handling (both on the server and on the client)
--   🎃 At the end DEPLOY like a pro for FREE!
--   ⏳ And much more!
+This project is not build by me a youtuber named as 'As a Programmer' made this......
+I have made a modified version of this project if you want you can visit my repo named Github-clone and yes its in Typescript you can contribute to that as well.....
+i will soon push some more modification in that project so stay tuned.....
 
 ### Setup .env file
 
